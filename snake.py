@@ -1,3 +1,6 @@
+# -*-coding:utf-8-*-
+# by Alan_Correa
+
 import pygame
 from pygame.locals import*
 from random import randint
