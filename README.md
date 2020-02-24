@@ -1,2 +1,2 @@
-# Python-Projects
-Projetos em geral escritos em linguagem python
+# Game Snake
+Game mundialmente conhecido escrito em linguagem python
